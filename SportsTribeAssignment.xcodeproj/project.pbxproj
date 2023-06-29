@@ -14,6 +14,27 @@
 		D96072E22A4D8BB200A25A26 /* SportsTribeAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96072E12A4D8BB200A25A26 /* SportsTribeAssignmentTests.swift */; };
 		D96072EC2A4D8BB200A25A26 /* SportsTribeAssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96072EB2A4D8BB200A25A26 /* SportsTribeAssignmentUITests.swift */; };
 		D96072EE2A4D8BB200A25A26 /* SportsTribeAssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96072ED2A4D8BB200A25A26 /* SportsTribeAssignmentUITestsLaunchTests.swift */; };
+		D96072FF2A4D8E3000A25A26 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = D96072FE2A4D8E3000A25A26 /* FirebaseAuth */; };
+		D96073022A4D95F400A25A26 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D96073012A4D95F400A25A26 /* GoogleService-Info.plist */; };
+		D96073032A4D963800A25A26 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D96073012A4D95F400A25A26 /* GoogleService-Info.plist */; };
+		D96073192A4DA15900A25A26 /* LufgaBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073152A4DA15800A25A26 /* LufgaBold.ttf */; };
+		D960731A2A4DA15900A25A26 /* LufgaBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073152A4DA15800A25A26 /* LufgaBold.ttf */; };
+		D960731B2A4DA15900A25A26 /* LufgaBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073152A4DA15800A25A26 /* LufgaBold.ttf */; };
+		D960731C2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073162A4DA15800A25A26 /* LufgaMedium.ttf */; };
+		D960731D2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073162A4DA15800A25A26 /* LufgaMedium.ttf */; };
+		D960731E2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073162A4DA15800A25A26 /* LufgaMedium.ttf */; };
+		D960731F2A4DA15900A25A26 /* LufgaRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073172A4DA15900A25A26 /* LufgaRegular.ttf */; };
+		D96073202A4DA15900A25A26 /* LufgaRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073172A4DA15900A25A26 /* LufgaRegular.ttf */; };
+		D96073212A4DA15900A25A26 /* LufgaRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073172A4DA15900A25A26 /* LufgaRegular.ttf */; };
+		D96073222A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073182A4DA15900A25A26 /* LufgaSemiBold.ttf */; };
+		D96073232A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073182A4DA15900A25A26 /* LufgaSemiBold.ttf */; };
+		D96073242A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D96073182A4DA15900A25A26 /* LufgaSemiBold.ttf */; };
+		D96073262A4DF4C100A25A26 /* OTPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073252A4DF4C000A25A26 /* OTPView.swift */; };
+		D96073272A4DF4C100A25A26 /* OTPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073252A4DF4C000A25A26 /* OTPView.swift */; };
+		D96073282A4DF4C100A25A26 /* OTPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073252A4DF4C000A25A26 /* OTPView.swift */; };
+		D96073312A4E136A00A25A26 /* LoggedInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073302A4E136A00A25A26 /* LoggedInView.swift */; };
+		D96073322A4E136A00A25A26 /* LoggedInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073302A4E136A00A25A26 /* LoggedInView.swift */; };
+		D96073332A4E136A00A25A26 /* LoggedInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96073302A4E136A00A25A26 /* LoggedInView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +65,15 @@
 		D96072E72A4D8BB200A25A26 /* SportsTribeAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsTribeAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96072EB2A4D8BB200A25A26 /* SportsTribeAssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsTribeAssignmentUITests.swift; sourceTree = "<group>"; };
 		D96072ED2A4D8BB200A25A26 /* SportsTribeAssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsTribeAssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D96072FC2A4D8D8A00A25A26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = Info.plist; path = "Preview Content/Info.plist"; sourceTree = "<group>"; };
+		D96073002A4D8F3400A25A26 /* SportsTribeAssignment.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SportsTribeAssignment.entitlements; sourceTree = "<group>"; };
+		D96073012A4D95F400A25A26 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D96073152A4DA15800A25A26 /* LufgaBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LufgaBold.ttf; sourceTree = "<group>"; };
+		D96073162A4DA15800A25A26 /* LufgaMedium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LufgaMedium.ttf; sourceTree = "<group>"; };
+		D96073172A4DA15900A25A26 /* LufgaRegular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LufgaRegular.ttf; sourceTree = "<group>"; };
+		D96073182A4DA15900A25A26 /* LufgaSemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LufgaSemiBold.ttf; sourceTree = "<group>"; };
+		D96073252A4DF4C000A25A26 /* OTPView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPView.swift; sourceTree = "<group>"; };
+		D96073302A4E136A00A25A26 /* LoggedInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggedInView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96072FF2A4D8E3000A25A26 /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,9 +105,14 @@
 		D96072C42A4D8BAF00A25A26 = {
 			isa = PBXGroup;
 			children = (
+				D96073042A4D9FAC00A25A26 /* Fonts */,
 				D96072CF2A4D8BAF00A25A26 /* SportsTribeAssignment */,
 				D96072E02A4D8BB200A25A26 /* SportsTribeAssignmentTests */,
 				D96072EA2A4D8BB200A25A26 /* SportsTribeAssignmentUITests */,
+				D96073152A4DA15800A25A26 /* LufgaBold.ttf */,
+				D96073162A4DA15800A25A26 /* LufgaMedium.ttf */,
+				D96073172A4DA15900A25A26 /* LufgaRegular.ttf */,
+				D96073182A4DA15900A25A26 /* LufgaSemiBold.ttf */,
 				D96072CE2A4D8BAF00A25A26 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,7 +131,9 @@
 			isa = PBXGroup;
 			children = (
 				D96072D02A4D8BAF00A25A26 /* SportsTribeAssignmentApp.swift */,
-				D96072D22A4D8BAF00A25A26 /* ContentView.swift */,
+				D960732A2A4DF9BA00A25A26 /* Views */,
+				D96073002A4D8F3400A25A26 /* SportsTribeAssignment.entitlements */,
+				D96072FC2A4D8D8A00A25A26 /* Info.plist */,
 				D96072D42A4D8BB100A25A26 /* Assets.xcassets */,
 				D96072D62A4D8BB100A25A26 /* Preview Content */,
 			);
@@ -122,9 +160,27 @@
 			isa = PBXGroup;
 			children = (
 				D96072EB2A4D8BB200A25A26 /* SportsTribeAssignmentUITests.swift */,
+				D96073012A4D95F400A25A26 /* GoogleService-Info.plist */,
 				D96072ED2A4D8BB200A25A26 /* SportsTribeAssignmentUITestsLaunchTests.swift */,
 			);
 			path = SportsTribeAssignmentUITests;
+			sourceTree = "<group>";
+		};
+		D96073042A4D9FAC00A25A26 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		D960732A2A4DF9BA00A25A26 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D96072D22A4D8BAF00A25A26 /* ContentView.swift */,
+				D96073252A4DF4C000A25A26 /* OTPView.swift */,
+				D96073302A4E136A00A25A26 /* LoggedInView.swift */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,6 +199,9 @@
 			dependencies = (
 			);
 			name = SportsTribeAssignment;
+			packageProductDependencies = (
+				D96072FE2A4D8E3000A25A26 /* FirebaseAuth */,
+			);
 			productName = SportsTribeAssignment;
 			productReference = D96072CD2A4D8BAF00A25A26 /* SportsTribeAssignment.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +274,9 @@
 				Base,
 			);
 			mainGroup = D96072C42A4D8BAF00A25A26;
+			packageReferences = (
+				D96072FD2A4D8E3000A25A26 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = D96072CE2A4D8BAF00A25A26 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -232,7 +294,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				D96072D82A4D8BB100A25A26 /* Preview Assets.xcassets in Resources */,
+				D96073192A4DA15900A25A26 /* LufgaBold.ttf in Resources */,
+				D96073222A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */,
 				D96072D52A4D8BB100A25A26 /* Assets.xcassets in Resources */,
+				D960731F2A4DA15900A25A26 /* LufgaRegular.ttf in Resources */,
+				D96073032A4D963800A25A26 /* GoogleService-Info.plist in Resources */,
+				D960731C2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +307,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96073202A4DA15900A25A26 /* LufgaRegular.ttf in Resources */,
+				D960731A2A4DA15900A25A26 /* LufgaBold.ttf in Resources */,
+				D960731D2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */,
+				D96073232A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +318,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96073022A4D95F400A25A26 /* GoogleService-Info.plist in Resources */,
+				D96073212A4DA15900A25A26 /* LufgaRegular.ttf in Resources */,
+				D960731B2A4DA15900A25A26 /* LufgaBold.ttf in Resources */,
+				D96073242A4DA15900A25A26 /* LufgaSemiBold.ttf in Resources */,
+				D960731E2A4DA15900A25A26 /* LufgaMedium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +333,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96073312A4E136A00A25A26 /* LoggedInView.swift in Sources */,
 				D96072D32A4D8BAF00A25A26 /* ContentView.swift in Sources */,
 				D96072D12A4D8BAF00A25A26 /* SportsTribeAssignmentApp.swift in Sources */,
+				D96073262A4DF4C100A25A26 /* OTPView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +344,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96073272A4DF4C100A25A26 /* OTPView.swift in Sources */,
+				D96073322A4E136A00A25A26 /* LoggedInView.swift in Sources */,
 				D96072E22A4D8BB200A25A26 /* SportsTribeAssignmentTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,8 +354,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D96073332A4E136A00A25A26 /* LoggedInView.swift in Sources */,
 				D96072EC2A4D8BB200A25A26 /* SportsTribeAssignmentUITests.swift in Sources */,
 				D96072EE2A4D8BB200A25A26 /* SportsTribeAssignmentUITestsLaunchTests.swift in Sources */,
+				D96073282A4DF4C100A25A26 /* OTPView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,12 +496,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SportsTribeAssignment/SportsTribeAssignment.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SportsTribeAssignment/Preview Content\"";
 				DEVELOPMENT_TEAM = R5SRU82TD9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SportsTribeAssignment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -443,12 +527,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SportsTribeAssignment/SportsTribeAssignment.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SportsTribeAssignment/Preview Content\"";
 				DEVELOPMENT_TEAM = R5SRU82TD9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SportsTribeAssignment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -583,6 +669,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D96072FD2A4D8E3000A25A26 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D96072FE2A4D8E3000A25A26 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D96072FD2A4D8E3000A25A26 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D96072C52A4D8BAF00A25A26 /* Project object */;
 }
